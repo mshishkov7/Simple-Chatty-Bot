@@ -1,2 +1,3 @@
 # SimpleChattyBot
- SimpleChattyBot Java Project
+
+Hyperskill.org tutorial for learnming java.
